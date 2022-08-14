@@ -10,7 +10,7 @@ https://lakshmipriya117.github.io/calc_with_test/<br/>
 <B>FEATURES</B><br/>
 #Arithmetic operations<br/>
 #Mobile Responsiveness<br/>
-#Test Cases-testing using JEST</br/>![image](https://user-images.githubusercontent.com/36601848/184540331-ce44e2ce-5061-447f-9ce1-8c1ce9a4ca7f.png)
-![Uploading image.png…]()
+#Test Cases-testing using JEST</br/>![image](https://user-images.githubusercontent.com/36601848/184540367-8849e21b-d5b7-4ccd-9d28-95af12d78a11.png)
+
 
 
