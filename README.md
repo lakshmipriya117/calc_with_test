@@ -1,7 +1,8 @@
 # calc_with_test
 https://lakshmipriya117.github.io/calc_with_test/<br/>
 <b>REACT CALCULATOR WITH TESTING</B><BR/>
-![image](https://user-images.githubusercontent.com/36601848/184528189-db7bff21-babb-48d0-8f57-f8ef74805922.png)
+![image](https://user-images.githubusercontent.com/36601848/184528482-9e380948-e9aa-4d91-9827-f51d51b4becd.png)
+
 
 <BR/>
 <B>FEATURES</B>
