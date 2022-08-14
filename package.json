@@ -1,0 +1,22 @@
+{
+  "name": "calc",
+  "homepage": "https://lakshmipriya117.github.io/react_calc_with-test/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "react-test-renderer": "^16.3.1",
+    "styled-components": "^5.3.5"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
